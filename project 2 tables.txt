@@ -1,0 +1,50 @@
+create table MOVIE
+( movie_number int not null,
+movie_title varchar(30) not null,
+Description varchar(255) not null,
+movie_year_made smallint not null,
+genre_id smallint not null,
+movie_rating char(5) not null,
+media_type varchar(10) not null, 
+movie_retail_cost float not null,
+tape_rental_cost float not null,
+copies_on_hand smallint null,
+image varchar(30) null,
+trailer varchar(30) null,
+PRIMARY KEY(movie_number))
+
+create table MEMBER
+( number int not null,
+joindate datetime not null,
+firstname char(15) not null,
+lastname char(25) not null,
+address char(30) not null,
+city char(20) not null,
+state char(2) not null,
+zipcode char(5) not null,
+phone char(10) not null,
+member_status char(1) not null,
+password Varchar(20) not null,
+PRIMARY KEY(number))
+
+create table RENTAL
+( movie_number int not null,
+member_number int not null,
+media_checkout_date datetime not null,
+media_return_date datetime null,
+media_exp_return_date datetime not null,
+media_rental_cost smallmoney,
+PRIMARY KEY(movie_number, member_number))
+
+create table GENRE 
+( id int not null,
+name varchar(30) not null,
+PRIMARY KEY(id))
+
+create table VENDOR
+( VendorID int not null,
+VendorName varchar(30) not null,
+PRIMARY KEY(VendorID));
+
+
+https://www.youtube.com/watch?v=Ta1NtQReGnw
