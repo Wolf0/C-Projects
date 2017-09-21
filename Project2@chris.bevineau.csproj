@@ -1,0 +1,271 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{DA6C157B-1BAD-4B3E-AF4F-D0B6E672518C}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>ADO.Net_Demo</RootNamespace>
+    <AssemblyName>ADO.Net Demo</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.ReportViewer.Common, Version=11.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91" />
+    <Reference Include="Microsoft.ReportViewer.WinForms, Version=11.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91" />
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AdministrationForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AdministrationForm.Designer.cs">
+      <DependentUpon>AdministrationForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="bevineauDataSet.cs">
+      <DependentUpon>bevineauDataSet.xsd</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="bevineauDataSet.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>bevineauDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="CD_CollectionDataSet.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>CD_CollectionDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Genre.cs" />
+    <Compile Include="GenreDB.cs" />
+    <Compile Include="MemberForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MemberForm.Designer.cs">
+      <DependentUpon>MemberForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="LoginForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="LoginForm.Designer.cs">
+      <DependentUpon>LoginForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Member.cs" />
+    <Compile Include="MemberDB.cs" />
+    <Compile Include="MemberReport.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MemberReport.Designer.cs">
+      <DependentUpon>MemberReport.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Movie.cs" />
+    <Compile Include="MovieDB.cs" />
+    <Compile Include="MovieForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MovieForm.Designer.cs">
+      <DependentUpon>MovieForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MovieReport.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MovieReport.Designer.cs">
+      <DependentUpon>MovieReport.cs</DependentUpon>
+    </Compile>
+    <Compile Include="netflixDataSet.cs">
+      <DependentUpon>netflixDataSet.xsd</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="netflixDataSet.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>netflixDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Rental.cs" />
+    <Compile Include="RentalDB.cs" />
+    <Compile Include="RentalForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="RentalForm.Designer.cs">
+      <DependentUpon>RentalForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Vendor.cs" />
+    <Compile Include="VendorDB.cs" />
+    <Compile Include="VendorForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="VendorForm.Designer.cs">
+      <DependentUpon>VendorForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="WalkingDead.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="WalkingDead.Designer.cs">
+      <DependentUpon>WalkingDead.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="AdministrationForm.resx">
+      <DependentUpon>AdministrationForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MemberForm.resx">
+      <DependentUpon>MemberForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="LoginForm.resx">
+      <DependentUpon>LoginForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MemberReport.resx">
+      <DependentUpon>MemberReport.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MovieForm.resx">
+      <DependentUpon>MovieForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MovieReport.resx">
+      <DependentUpon>MovieReport.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="RentalForm.resx">
+      <DependentUpon>RentalForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Report1.rdlc" />
+    <EmbeddedResource Include="Report2.rdlc" />
+    <EmbeddedResource Include="Report3.rdlc" />
+    <EmbeddedResource Include="Report4.rdlc" />
+    <EmbeddedResource Include="VendorForm.resx">
+      <DependentUpon>VendorForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="WalkingDead.resx">
+      <DependentUpon>WalkingDead.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="bevineauDataSet.xsc">
+      <DependentUpon>bevineauDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="bevineauDataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>bevineauDataSet.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="bevineauDataSet.xss">
+      <DependentUpon>bevineauDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="CD_CollectionDataSet.xsc">
+      <DependentUpon>CD_CollectionDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="CD_CollectionDataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>CD_CollectionDataSet.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="CD_CollectionDataSet.xss">
+      <DependentUpon>CD_CollectionDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="ClassDiagram2.cd" />
+    <None Include="ClassDiagram3.cd" />
+    <None Include="netflixDataSet.xsc">
+      <DependentUpon>netflixDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="netflixDataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>netflixDataSet.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="netflixDataSet.xss">
+      <DependentUpon>netflixDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <COMReference Include="AxShockwaveFlashObjects">
+      <Guid>{D27CDB6B-AE6D-11CF-96B8-444553540000}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>aximp</WrapperTool>
+      <Isolated>False</Isolated>
+    </COMReference>
+    <COMReference Include="AxWMPLib">
+      <Guid>{6BF52A50-394A-11D3-B153-00C04F79FAA6}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>aximp</WrapperTool>
+      <Isolated>False</Isolated>
+    </COMReference>
+    <COMReference Include="ShockwaveFlashObjects">
+      <Guid>{D27CDB6B-AE6D-11CF-96B8-444553540000}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>tlbimp</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+    <COMReference Include="WMPLib">
+      <Guid>{6BF52A50-394A-11D3-B153-00C04F79FAA6}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>tlbimp</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
