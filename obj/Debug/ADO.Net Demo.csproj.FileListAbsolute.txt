@@ -1,0 +1,42 @@
+E:\IS 253 251 C# Programming II\InClass Demo Exercises\ADO.Net Demo\ADO.Net Demo\bin\Debug\ADO.Net Demo.exe.config
+E:\IS 253 251 C# Programming II\InClass Demo Exercises\ADO.Net Demo\ADO.Net Demo\bin\Debug\ADO.Net Demo.exe
+E:\IS 253 251 C# Programming II\InClass Demo Exercises\ADO.Net Demo\ADO.Net Demo\bin\Debug\ADO.Net Demo.pdb
+E:\IS 253 251 C# Programming II\InClass Demo Exercises\ADO.Net Demo\ADO.Net Demo\obj\Debug\ADO.Net Demo.csprojResolveAssemblyReference.cache
+E:\IS 253 251 C# Programming II\InClass Demo Exercises\ADO.Net Demo\ADO.Net Demo\obj\Debug\ADO.Net_Demo.Form1.resources
+E:\IS 253 251 C# Programming II\InClass Demo Exercises\ADO.Net Demo\ADO.Net Demo\obj\Debug\ADO.Net_Demo.Properties.Resources.resources
+E:\IS 253 251 C# Programming II\InClass Demo Exercises\ADO.Net Demo\ADO.Net Demo\obj\Debug\ADO.Net Demo.csproj.GenerateResource.Cache
+E:\IS 253 251 C# Programming II\InClass Demo Exercises\ADO.Net Demo\ADO.Net Demo\obj\Debug\ADO.Net Demo.exe
+E:\IS 253 251 C# Programming II\InClass Demo Exercises\ADO.Net Demo\ADO.Net Demo\obj\Debug\ADO.Net Demo.pdb
+C:\Users\Stevie\Documents\IS 253 251 C# Programming II\InClass Demo Exercises\ADO.Net Demo\ADO.Net Demo\bin\Debug\ADO.Net Demo.exe.config
+C:\Users\Stevie\Documents\IS 253 251 C# Programming II\InClass Demo Exercises\ADO.Net Demo\ADO.Net Demo\obj\Debug\ADO.Net Demo.exe
+C:\Users\Stevie\Documents\IS 253 251 C# Programming II\InClass Demo Exercises\ADO.Net Demo\ADO.Net Demo\obj\Debug\ADO.Net Demo.pdb
+C:\Users\Stevie\Documents\IS 253 251 C# Programming II\InClass Demo Exercises\ADO.Net Demo\ADO.Net Demo\obj\Debug\ADO.Net Demo.csprojResolveAssemblyReference.cache
+C:\Users\Stevie\Documents\IS 253 251 C# Programming II\InClass Demo Exercises\ADO.Net Demo\ADO.Net Demo\obj\Debug\ADO.Net_Demo.Form1.resources
+C:\Users\Stevie\Documents\IS 253 251 C# Programming II\InClass Demo Exercises\ADO.Net Demo\ADO.Net Demo\obj\Debug\ADO.Net_Demo.Properties.Resources.resources
+C:\Users\Stevie\Documents\IS 253 251 C# Programming II\InClass Demo Exercises\ADO.Net Demo\ADO.Net Demo\obj\Debug\ADO.Net Demo.csproj.GenerateResource.Cache
+C:\Users\Stevie\Documents\IS 253 251 C# Programming II\InClass Demo Exercises\ADO.Net Demo\ADO.Net Demo\bin\Debug\ADO.Net Demo.exe
+C:\Users\Stevie\Documents\IS 253 251 C# Programming II\InClass Demo Exercises\ADO.Net Demo\ADO.Net Demo\bin\Debug\ADO.Net Demo.pdb
+C:\Users\Stevie\Documents\IS 253 251 C# Programming II\InClass Demo Exercises\ADO.Net Demo\ADO.Net Demo\obj\Debug\ADO.Net_Demo.CustomerDataEntry.resources
+C:\temp\ADO.Net Demo\ADO.Net Demo\bin\Debug\ADO.Net Demo.exe.config
+C:\temp\ADO.Net Demo\ADO.Net Demo\obj\Debug\ADO.Net Demo.exe
+C:\temp\ADO.Net Demo\ADO.Net Demo\obj\Debug\ADO.Net Demo.pdb
+C:\temp\ADO.Net Demo\ADO.Net Demo\bin\Debug\ADO.Net Demo.exe
+C:\temp\ADO.Net Demo\ADO.Net Demo\bin\Debug\ADO.Net Demo.pdb
+C:\temp\ADO.Net Demo\ADO.Net Demo\obj\Debug\ADO.Net Demo.csprojResolveAssemblyReference.cache
+C:\temp\ADO.Net Demo\ADO.Net Demo\obj\Debug\ADO.Net_Demo.CustomerDataEntry.resources
+C:\temp\ADO.Net Demo\ADO.Net Demo\obj\Debug\ADO.Net_Demo.Form1.resources
+C:\temp\ADO.Net Demo\ADO.Net Demo\obj\Debug\ADO.Net_Demo.Properties.Resources.resources
+C:\temp\ADO.Net Demo\ADO.Net Demo\obj\Debug\ADO.Net Demo.csproj.GenerateResource.Cache
+D:\Project 2\ADO.Net Demo(1)\ADO.Net Demo\ADO.Net Demo\bin\Debug\ADO.Net Demo.exe.config
+D:\Project 2\ADO.Net Demo(1)\ADO.Net Demo\ADO.Net Demo\obj\Debug\ADO.Net Demo.exe
+D:\Project 2\ADO.Net Demo(1)\ADO.Net Demo\ADO.Net Demo\obj\Debug\ADO.Net Demo.pdb
+D:\Project 2\ADO.Net Demo(1)\ADO.Net Demo\ADO.Net Demo\bin\Debug\ADO.Net Demo.exe
+D:\Project 2\ADO.Net Demo(1)\ADO.Net Demo\ADO.Net Demo\bin\Debug\ADO.Net Demo.pdb
+D:\Project 2\ADO.Net Demo(1)\ADO.Net Demo\ADO.Net Demo\obj\Debug\ADO.Net Demo.csprojResolveAssemblyReference.cache
+D:\Project 2\ADO.Net Demo(1)\ADO.Net Demo\ADO.Net Demo\obj\Debug\ADO.Net_Demo.CustomerDataEntry.resources
+D:\Project 2\ADO.Net Demo(1)\ADO.Net Demo\ADO.Net Demo\obj\Debug\ADO.Net_Demo.Form1.resources
+D:\Project 2\ADO.Net Demo(1)\ADO.Net Demo\ADO.Net Demo\obj\Debug\ADO.Net_Demo.Properties.Resources.resources
+D:\Project 2\ADO.Net Demo(1)\ADO.Net Demo\ADO.Net Demo\obj\Debug\ADO.Net Demo.csproj.GenerateResource.Cache
+D:\Project 2 more bruh\ADO.Net Demo(1)\ADO.Net Demo\ADO.Net Demo\bin\Debug\ADO.Net Demo.exe.config
+D:\Project 2 more bruh\ADO.Net Demo(1)\ADO.Net Demo\ADO.Net Demo\obj\Debug\ADO.Net Demo.exe
+D:\Project 2 more bruh\ADO.Net Demo(1)\ADO.Net Demo\ADO.Net Demo\obj\Debug\ADO.Net Demo.pdb

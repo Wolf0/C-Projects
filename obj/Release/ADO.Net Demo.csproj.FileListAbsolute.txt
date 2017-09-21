@@ -1,0 +1,9 @@
+E:\IS 253 251 C# Programming II\InClass Demo Exercises\ADO.Net Demo\ADO.Net Demo\bin\Release\ADO.Net Demo.exe.config
+E:\IS 253 251 C# Programming II\InClass Demo Exercises\ADO.Net Demo\ADO.Net Demo\bin\Release\ADO.Net Demo.exe
+E:\IS 253 251 C# Programming II\InClass Demo Exercises\ADO.Net Demo\ADO.Net Demo\bin\Release\ADO.Net Demo.pdb
+E:\IS 253 251 C# Programming II\InClass Demo Exercises\ADO.Net Demo\ADO.Net Demo\obj\Release\ADO.Net Demo.csprojResolveAssemblyReference.cache
+E:\IS 253 251 C# Programming II\InClass Demo Exercises\ADO.Net Demo\ADO.Net Demo\obj\Release\ADO.Net_Demo.Form1.resources
+E:\IS 253 251 C# Programming II\InClass Demo Exercises\ADO.Net Demo\ADO.Net Demo\obj\Release\ADO.Net_Demo.Properties.Resources.resources
+E:\IS 253 251 C# Programming II\InClass Demo Exercises\ADO.Net Demo\ADO.Net Demo\obj\Release\ADO.Net Demo.csproj.GenerateResource.Cache
+E:\IS 253 251 C# Programming II\InClass Demo Exercises\ADO.Net Demo\ADO.Net Demo\obj\Release\ADO.Net Demo.exe
+E:\IS 253 251 C# Programming II\InClass Demo Exercises\ADO.Net Demo\ADO.Net Demo\obj\Release\ADO.Net Demo.pdb

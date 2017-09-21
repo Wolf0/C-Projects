@@ -1,0 +1,184 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="ADO.Net_Demo.AdministrationForm" Collapsed="true">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AwCgCAQAACEAAAAAAACAEBACQAggAAAAAAACAABAAAA=</HashCode>
+      <FileName>AdministrationForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ADO.Net_Demo.bevineauDataSet" Collapsed="true">
+    <Position X="2.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAUAAAQBAyAAAAJABACAQQgIEAgDQBgAAAEIAAEABBQ=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ADO.Net_Demo.Genre" Collapsed="true">
+    <Position X="4" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAgAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Genre.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ADO.Net_Demo.GenreDB" Collapsed="true">
+    <Position X="5.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AACAAAAAAAAAAiAAAAAAAAAAAAAAAAAAAAQAAAAAAAA=</HashCode>
+      <FileName>GenreDB.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ADO.Net_Demo.LoginForm" Collapsed="true">
+    <Position X="9.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACAAAAAAACAAABAAAACAAAACAAAYAAAAEGAAAAAAAAA=</HashCode>
+      <FileName>LoginForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ADO.Net_Demo.Member" Collapsed="true">
+    <Position X="0.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAQAAhAQAAIAAAAAAAAAAAAAAAiAAAABwCAAAA=</HashCode>
+      <FileName>Member.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ADO.Net_Demo.MemberDB" Collapsed="true">
+    <Position X="2.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAACAAQAMAAAAACAAAAAAAAA=</HashCode>
+      <FileName>MemberDB.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ADO.Net_Demo.MemberForm" Collapsed="true">
+    <Position X="4" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>MICAAAIAACAABBQQgACAAAAiAMg5QCGAAGAEAABBRAA=</HashCode>
+      <FileName>MemberForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ADO.Net_Demo.MemberReport" Collapsed="true">
+    <Position X="5.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAACAAACAEAAAAAACgAAACAAAAgAAAAAAAAACAAAA=</HashCode>
+      <FileName>MemberReport.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ADO.Net_Demo.Movie" Collapsed="true">
+    <Position X="9.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAIAAAAEEhCAIAAAAAAAAAEAAAAAAAAAAAAQQBAAQ=</HashCode>
+      <FileName>Movie.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ADO.Net_Demo.MovieDB" Collapsed="true">
+    <Position X="0.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AACAAAAAQAAAEAAAAAAAAQAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>MovieDB.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ADO.Net_Demo.MovieForm" Collapsed="true">
+    <Position X="2.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>/yCAEAAAASAAAACBEICAAABCIBwCAAAA0AABAAABRLA=</HashCode>
+      <FileName>MovieForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ADO.Net_Demo.MovieReport" Collapsed="true">
+    <Position X="4" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAEAAIAAACAAAACAAAAwAAAAAAAAIAAAAA=</HashCode>
+      <FileName>MovieReport.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ADO.Net_Demo.Program" Collapsed="true">
+    <Position X="7.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ADO.Net_Demo.Rental" Collapsed="true">
+    <Position X="9.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAACAAAAABAAAAAAAAAAAAAAAAAAAAAAIAAQAAgAE=</HashCode>
+      <FileName>Rental.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ADO.Net_Demo.RentalForm" Collapsed="true">
+    <Position X="0.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAAAAACAAAACAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>RentalForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ADO.Net_Demo.Vendor" Collapsed="true">
+    <Position X="9.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Vendor.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ADO.Net_Demo.VendorDB" Collapsed="true">
+    <Position X="0.5" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAIAAAAAAAAAAAEAAAAAAAAAAAQEAAAAA=</HashCode>
+      <FileName>VendorDB.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ADO.Net_Demo.VendorForm" Collapsed="true">
+    <Position X="2.25" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACCAAAAAACAAABAAAACAAAACAMg5QDEAECAEAAABBAA=</HashCode>
+      <FileName>VendorForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ADO.Net_Demo.bevineauDataSetTableAdapters.GENRETableAdapter" Collapsed="true">
+    <Position X="7.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EASAAGAAEAAAAAcAIAAAAAAAACEICAAAAAAAAAAABBA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ADO.Net_Demo.bevineauDataSetTableAdapters.MEMBERTableAdapter" Collapsed="true">
+    <Position X="7.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EASAAGAAEAAAAAcAIAAAAAAAACEICAAAAAAAAAAABBA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ADO.Net_Demo.bevineauDataSetTableAdapters.MOVIETableAdapter" Collapsed="true">
+    <Position X="5.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EASAAGAAEAAAAAcAIAAAAAAAACEICAAAAAAAAAAABBA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ADO.Net_Demo.bevineauDataSetTableAdapters.RENTALTableAdapter" Collapsed="true">
+    <Position X="2.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EASAAGAAEAAAAAcAIAAAAAAAACEICAAAAAAAAAAABBA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ADO.Net_Demo.bevineauDataSetTableAdapters.VENDORTableAdapter" Collapsed="true">
+    <Position X="4" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EASAAGAAEAAAAAcAIAAAAAAAACAICAAAAAAAAAAABBA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ADO.Net_Demo.bevineauDataSetTableAdapters.TableAdapterManager" Collapsed="true">
+    <Position X="7.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EQAAACAABQBABAEBAAAAcAAggAACkAEAAAQAAIAABAQ=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ADO.Net_Demo.Properties.Resources" Collapsed="true">
+    <Position X="4" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAABEAAAAQAAAAAAAAAAAAAAAIA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ADO.Net_Demo.Properties.Settings" Collapsed="true">
+    <Position X="5.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAACAAAAAAAAAAAAAAAIAAAAAABAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
